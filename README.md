@@ -6,11 +6,10 @@ Bu eğitimin amacı basit projelerle size Arduino ekosisteminin temellerini, ele
 
 -   LED
 -   RGB LED
--   Temp Sensor
+-   Sıcaklık Sensörü
 -   Pushbutton
--   Potentiometer
--   Photoresistor
--   Servo
--   Motor
+-   Potansiyometre
+-   LDR (ışığa duyarlı direnç)
+-   Servo Motor
 -   Buzzer
--   LCD screen
+-   LCD Ekran
