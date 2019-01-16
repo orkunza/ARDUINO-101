@@ -2,7 +2,7 @@
 Devre breadboard üzerinde oluşturulduktan sonra, programı (eskiz  veya sketch olarak bilinir) Arduino'ya yüklememiz gerekir. sketch, arduinoya hangi işlevleri yerine getirmesi gerektiğini söyleyen bir talimatlar kümesidir. Bir Arduino kartı aynı anda sadece bir sketch gerçekleştirebilir. Arduino sketchlerini oluşturmak için kullanılan yazılıma türkçesi Entegre Geliştirme Ortamı anlamına gelen IDE denir.
 Yazılımın indirilmesi ücretsizdir ve https://www.arduino.cc/en/Main/Software adresinde bulunabilir.
 
-![enter image description here](https://i2.wp.com/www.makerspaces.com/wp-content/uploads/2017/02/19-button-sketch.png?resize=608,800&ssl=1)
+![enter image description here](http://kodlamayap.com/wp-content/uploads/2017/11/ardiuno-1.png)
 
 Her sketch iki ana bölümden oluşur:
 
