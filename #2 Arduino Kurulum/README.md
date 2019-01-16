@@ -6,9 +6,9 @@ Yazılımın indirilmesi ücretsizdir ve https://www.arduino.cc/en/Main/Software
 
 Her sketch iki ana bölümden oluşur:
 
-void setup () - Bir kez yapılması gerekenleri ayarlar ve sonra bir daha olmaz. Kısaca kurulum bölümü gibi düşünülebilir, pinlerin ne özellikte olacağı gibi talimatlar burda verilir. 
+**void setup ()** - Bir kez yapılması gerekenleri ayarlar ve sonra bir daha olmaz. Kısaca kurulum bölümü gibi düşünülebilir, pinlerin ne özellikte olacağı gibi talimatlar burda verilir. 
 
-void loop () - Kart kapanana kadar tekrarlanan talimatları içerir. Kısacası arduino içinde bulunan döngü denebilir. İşlemler ve fonksiyonlar genellikle bu bölümde yapılır.
+**void loop ()** - Kart kapanana kadar tekrarlanan talimatları içerir. Kısacası arduino içinde bulunan döngü denebilir. İşlemler ve fonksiyonlar genellikle bu bölümde yapılır.
 
 # ⚙️ Kurulum...
 
@@ -27,4 +27,4 @@ Ardından, Arduino'ya bilgisayarınızda hangi portu kullandığınızı söylem
 
 ![enter image description here](http://kodlamayap.com/wp-content/uploads/2017/11/ardiuno-port-1.png)
 
-## ŞİMDİ TAMAMIZ!
+## ŞİMDİ TAMAMIZ!💯
