@@ -6,13 +6,16 @@
 🔹 Bu eğitimin amacı basit projelerle size Arduino ekosisteminin temellerini, elektroniği ve programlamayı öğretmektir. 
 ### Bu etkinliğimizde aşağıdaki elektronik bileşenleri kullanarak devre oluşturacağız:
 
+-   Arduino UNO
+-   Breadbord
+-   Jumper
+-   Direnç
 -   LED
 -   RGB LED
--   Temp Sensor
+-   Sıcaklık Sensörü
 -   Pushbutton
--   Potentiometer
--   Photoresistor
--   Servo
--   Motor
+-   Potansiyometre
+-   LDR
 -   Buzzer
--   LCD screen
+-   HC-SR04
+
