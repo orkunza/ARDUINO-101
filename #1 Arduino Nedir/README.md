@@ -23,7 +23,10 @@ Arduino ile çalışırken bir diğer önemli parça ise breadboard'dur. Bu deli
 
 ![enter image description here](https://www.elobilgi.com/wp-content/uploads/2017/10/breadboard-arkasi-290x289.jpg)
 ![enter image description here](https://www.elobilgi.com/wp-content/uploads/2017/10/breadboard-led.png)
-Bir yandan not olarak, breadboard kendi başına çalıştırılmamaktadır ve jumper kablolarını kullanarak Arduino kartından kendisine güç verilmesi gerekir. Bu teller ayrıca dirençleri, anahtarları ve diğer bileşenleri bir araya getirerek devreyi oluşturmak için kullanılır.
+
+### Bir yandan not olarak
+breadboard kendi başına çalıştırılmamaktadır ve jumper kablolarını kullanarak Arduino kartından kendisine güç verilmesi gerekir. Bu teller ayrıca dirençleri, anahtarları ve diğer bileşenleri bir araya getirerek devreyi oluşturmak için kullanılır.
+
 ![enter image description here](https://i2.wp.com/www.makerspaces.com/wp-content/uploads/2017/02/jumper-wires-for-arduino-uno-projects.jpg?resize=800,485&ssl=1)
 ![enter image description here](http://www.elobilgi.com/wp-content/uploads/2017/10/breadboard-elememanlar-takili.jpg)
 
