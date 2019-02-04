@@ -1,4 +1,4 @@
-# 💽IEEE PAU RAS - Arduino 101 Class !🏁
+# 💽 Arduino 101 Class !🏁
 
 ![enter image description here](https://orig01.deviantart.net/76e6/f/2014/110/8/c/arduino_placa_by_keikkun4-d7f9if3.png)
 
